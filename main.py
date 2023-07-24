@@ -98,8 +98,28 @@ def filter_images(image_paths):
     return filtered_image_paths
 
 
+def write_image_metadata(image_path):
+    with Image.open(image_path) as img:
+        exif_data = img._getexif()
+        if exif_data is None:
+            exif_data = {}
+
+        metadata = {
+            'Image Name': os.path.basename(image_path),
+            'DateTime': exif_data.get(piexif.ExifIFD.DateTimeOriginal, 'N/A'),
+            'GPSInfo': exif_data.get(piexif.GPSIFD.GPSLongitude, 'N/A')
+        }
+
+    # Save the metadata to the CSV file
+        with open('image_metadata.csv', 'a', newline='') as csv_file:
+            writer = csv.DictWriter(csv_file, fieldnames=list(metadata.keys()))
+            if csv_file.tell() == 0:
+                writer.writeheader()
+            writer.writerow(metadata)
+
+
 def main():
-    folder_path = 'D:\McMaster\SEP 799 - Project\Phase 2\Food'
+    folder_path = 'D:\McMaster\SEP 799 - Project\Phase 2\Food-min'
     image_paths = []
 
     # Collect image paths
@@ -107,6 +127,11 @@ def main():
         if filename.endswith('.jpg') or filename.endswith('.png') or filename.endswith('.HEIC'):
             image_paths.append(os.path.join(folder_path, filename))
 
+    for imagepath in image_paths:
+        write_image_metadata(imagepath)
+
+
+'''
     # Filter image paths based on existing descriptions in the CSV file
     filtered_image_paths = filter_images(image_paths)
 
@@ -121,7 +146,7 @@ def main():
     root.mainloop()
 
     print("Image metadata saved to 'image_metadata.csv'")
-
+'''
 
 if __name__ == '__main__':
     main()
