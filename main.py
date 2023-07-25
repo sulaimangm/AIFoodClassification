@@ -98,16 +98,37 @@ def filter_images(image_paths):
     return filtered_image_paths
 
 
+def dmsToDd(data, direction):
+    deg = data[0]
+    minutes = data[1]
+    seconds = data[2]
+    gps = (float(deg) + float(minutes)/60 + float(seconds) /
+           (60*60)) * (-1 if direction in ['W', 'S'] else 1)
+
+    return gps
+
+
 def write_image_metadata(image_path):
     with Image.open(image_path) as img:
         exif_data = img._getexif()
         if exif_data is None:
             exif_data = {}
 
+        latutudeDirection = 'N/A'
+        latitudeData = 'N/A'
+        longitudedirection = 'N/A'
+        longitudeData = 'N/A'
+
+        gpsData = exif_data.get(34853, 'N/A')
+        if (len(gpsData) > 1):
+            latitudeData = dmsToDd(gpsData[2], gpsData[1])
+            longitudeData = dmsToDd(gpsData[4], gpsData[3])
+
         metadata = {
             'Image Name': os.path.basename(image_path),
             'DateTime': exif_data.get(piexif.ExifIFD.DateTimeOriginal, 'N/A'),
-            'GPSInfo': exif_data.get(piexif.GPSIFD.GPSLongitude, 'N/A')
+            'GPSLatitude': latitudeData,
+            'GPSLongitude': longitudeData
         }
 
     # Save the metadata to the CSV file
