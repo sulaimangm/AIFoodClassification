@@ -3,6 +3,9 @@ import csv
 from PIL import Image, ImageTk
 import piexif
 import tkinter as tk
+import googlemaps
+
+api_key = ''
 
 
 class ImageMetadataGUI:
@@ -96,6 +99,20 @@ def filter_images(image_paths):
             filtered_image_paths.append(image_path)
 
     return filtered_image_paths
+
+
+def find_nearby_restaurants(latitude, longitude, radius=500, keyword='restaurant'):
+    gmaps = googlemaps.Client(key=api_key)
+
+    # Perform a nearby search for restaurants
+    places_result = gmaps.places_nearby(
+        location=(latitude, longitude),
+        radius=radius,
+        keyword=keyword,
+        type='restaurant'
+    )
+
+    return places_result.get('results', [])
 
 
 def dmsToDd(data, direction):
