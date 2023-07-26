@@ -5,7 +5,7 @@ import piexif
 import tkinter as tk
 import googlemaps
 
-api_key = ''
+api_key = 'AIzaSyDrj8NSgsWkuNb3kXGW3rwSgpGL-5DZ1A8'
 
 
 class ImageMetadataGUI:
@@ -112,7 +112,20 @@ def find_nearby_restaurants(latitude, longitude, radius=500, keyword='restaurant
         type='restaurant'
     )
 
-    return places_result.get('results', [])
+    restaurants = places_result.get('results', [])
+    restaurant_info = []
+
+    for restaurant in restaurants:
+        # Get additional details for each restaurant
+        place_details = gmaps.place(
+            place_id=restaurant['place_id'], fields=['name', 'website'])
+        if 'result' in place_details:
+            restaurant_info.append({
+                'Name': place_details['result'].get('name', ''),
+                'Website': place_details['result'].get('website', '')
+            })
+
+    return restaurant_info
 
 
 def dmsToDd(data, direction):
