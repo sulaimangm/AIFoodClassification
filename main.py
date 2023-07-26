@@ -5,7 +5,7 @@ import piexif
 import tkinter as tk
 import googlemaps
 
-api_key = 'AIzaSyDrj8NSgsWkuNb3kXGW3rwSgpGL-5DZ1A8'
+api_key = open('D:\McMaster\SEP 799 - Project\Phase 2\api.txt', 'r').read()
 
 
 class ImageMetadataGUI:
