@@ -5,7 +5,7 @@ import piexif
 import tkinter as tk
 import googlemaps
 
-api_key = open('D:\McMaster\SEP 799 - Project\Phase 2\api.txt', 'r').read()
+api_key = open('D:\McMaster\SEP 799 - Project\Phase 2\Api.txt', 'r').read()
 
 
 class ImageMetadataGUI:
@@ -125,7 +125,7 @@ def find_nearby_restaurants(latitude, longitude, radius=500, keyword='restaurant
                 'Website': place_details['result'].get('website', '')
             })
 
-    return restaurant_info
+    return restaurant_info[:3]
 
 
 def dmsToDd(data, direction):
@@ -154,11 +154,18 @@ def write_image_metadata(image_path):
             latitudeData = dmsToDd(gpsData[2], gpsData[1])
             longitudeData = dmsToDd(gpsData[4], gpsData[3])
 
+            restaurantInfo = find_nearby_restaurants(
+                latitudeData, longitudeData)
+
         metadata = {
             'Image Name': os.path.basename(image_path),
             'DateTime': exif_data.get(piexif.ExifIFD.DateTimeOriginal, 'N/A'),
             'GPSLatitude': latitudeData,
-            'GPSLongitude': longitudeData
+            'GPSLongitude': longitudeData,
+            'Restaurant 1': restaurantInfo[0],
+            'Restaurant 2': restaurantInfo[1],
+            'Restaurant 3': restaurantInfo[2]
+
         }
 
     # Save the metadata to the CSV file
