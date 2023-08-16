@@ -1,0 +1,669 @@
+,Filepath,Predictions
+0,../input/fooddataset/Food/20170521_091328.jpg,Egg pudding
+1,../input/fooddataset/Food/IMG_5028.jpg,Chongqing Hot and Sour Rice Noodles
+2,../input/fooddataset/Food/IMG_9594.jpg,Poached Egg
+3,../input/fooddataset/Food/IMG_7895.jpg,ice cream
+4,../input/fooddataset/Food/marine iguana hunting for food underwater - Galapagos.jpg,Seaweed and Egg Soup
+5,../input/fooddataset/Food/IMG_2609.jpg,Tangyuan
+6,../input/fooddataset/Food/20171102_072621.jpg,Double skin milk
+7,../input/fooddataset/Food/IMG_8529.jpg,Pork wonton
+8,../input/fooddataset/Food/IMG_6826.jpg,Seaweed and Egg Soup
+9,../input/fooddataset/Food/IMG_4526.jpg,Coconut Chicken
+10,../input/fooddataset/Food/IMG_6762.jpg,Golden meat rolls
+11,../input/fooddataset/Food/Paris_20090628_047.jpg,Stewed Chicken with Three Cups Sauce
+12,../input/fooddataset/Food/IMG_8542.jpg,Cold Rice Noodles
+13,../input/fooddataset/Food/IMG_2282.jpg,Scallop in Shell
+14,../input/fooddataset/Food/IMG_6541.jpg,cookies
+15,../input/fooddataset/Food/Paris_20090630_02.jpg,Steamed Pork Dumplings
+16,../input/fooddataset/Food/IMG_7833.jpg,Poached Egg
+17,../input/fooddataset/Food/IMG_1448.jpg,Scallop in Shell
+18,../input/fooddataset/Food/IMG_1798.jpg,Mashed garlic eggplant
+19,../input/fooddataset/Food/IMG_6828.jpg,Abalone
+20,../input/fooddataset/Food/IMG_7290.jpg,Roast goose
+21,../input/fooddataset/Food/IMG_6449.jpg,Steamed pork with rice powder
+22,../input/fooddataset/Food/IMG_6334.jpg,Hot and Sour Soup
+23,../input/fooddataset/Food/IMG_1996.jpg,Crackers
+24,../input/fooddataset/Food/IMG_7284.jpg,Tiger lily buds in Baconic
+25,../input/fooddataset/Food/IMG_3590.jpg,stuffed bitter melon
+26,../input/fooddataset/Food/IMG_6908.jpg,Steamed Perch
+27,../input/fooddataset/Food/20170821_011906.jpg,Mantou
+28,../input/fooddataset/Food/IMG_3318.jpg,Steamed Perch
+29,../input/fooddataset/Food/IMG_6725.jpg,Tangyuan
+30,../input/fooddataset/Food/20170610_150445.jpg,Shredded chicken
+31,../input/fooddataset/Food/IMG_7835.jpg,Roast goose
+32,../input/fooddataset/Food/IMG_9769.jpg,Poached Egg
+33,../input/fooddataset/Food/China_2008_27.jpg,Pumpkin porridge
+34,../input/fooddataset/Food/IMG_5402.jpg,Steamed shrimp with garlic and vermicelli
+35,../input/fooddataset/Food/EFFECTS(7).jpg,Spinach and pork liver soup
+36,../input/fooddataset/Food/IMG_4115.jpg,fried noodles
+37,../input/fooddataset/Food/IMG_6542.jpg,Golden meat rolls
+38,../input/fooddataset/Food/20171226_190726.jpg,Chicken gizzard
+39,../input/fooddataset/Food/IMG_1431.jpg,Pine cake with Diced Scallion
+40,../input/fooddataset/Food/20170607_122212.jpg,Twist
+41,../input/fooddataset/Food/IMG_3614.jpg,Yams in Hot Toffee
+42,../input/fooddataset/Food/IMG_9764.jpg,Fried Yam
+43,../input/fooddataset/Food/IMG_1443.jpg,Braised spareribs with kelp
+44,../input/fooddataset/Food/20171102_072626.jpg,Double skin milk
+45,../input/fooddataset/Food/IMG_2338.jpg,Chiffon Cake
+46,../input/fooddataset/Food/IMG_5400.jpg,Black fungus salad
+47,../input/fooddataset/Food/IMG_2134.jpg,squid
+48,../input/fooddataset/Food/IMG_7392.jpg,ice cream
+49,../input/fooddataset/Food/IMG_5050.jpg,Boiled chicken
+50,../input/fooddataset/Food/IMG_6139.jpg,Tangyuan
+51,../input/fooddataset/Food/IMG_2589.jpg,Sauted Chinese Greens with Mushrooms
+52,../input/fooddataset/Food/IMG_2539.jpg,Scallop in Shell
+53,../input/fooddataset/Food/IMG_9762.jpg,Steamed Perch
+54,../input/fooddataset/Food/IMG_6535.jpg,Spicy cabbage
+55,../input/fooddataset/Food/20170609_150212.jpg,Shredded chicken
+56,../input/fooddataset/Food/IMG_7975.jpg,Braised Fungus with pork slice
+57,../input/fooddataset/Food/IMG_5487.jpg,Poached Egg in Fermented Glutinous Rice Soup
+58,../input/fooddataset/Food/China_2008_211.jpg,Crab
+59,../input/fooddataset/Food/IMG_2986.jpg,ice cream
+60,../input/fooddataset/Food/IMG_7292.jpg,Beef Seasoned with Soy Sauce
+61,../input/fooddataset/Food/IMG_3457.jpg,Roast goose
+62,../input/fooddataset/Food/IMG_9689.jpg,Roujiamo
+63,../input/fooddataset/Food/IMG_6548.jpg,Pan-fried Crucian Carp
+64,../input/fooddataset/Food/IMG_5659.jpg,Oysters
+65,../input/fooddataset/Food/IMG_1317.jpg,Mashed garlic eggplant
+66,../input/fooddataset/Food/IMG_8563.jpg,Lettuce shredded meat
+67,../input/fooddataset/Food/IMG_1206.jpg,Goat Soup
+68,../input/fooddataset/Food/IMG_7646.jpg,Hot and sour shredded potatoes
+69,../input/fooddataset/Food/20170827_133313.jpg,Stuffed Pork with Chillies
+70,../input/fooddataset/Food/IMG_2527.jpg,Mantou
+71,../input/fooddataset/Food/IMG_0976.jpg,Mashed garlic eggplant
+72,../input/fooddataset/Food/IMG_6899.jpg,Braised beef noodle
+73,../input/fooddataset/Food/China_2008_22.jpg,Brown sugar ice powder
+74,../input/fooddataset/Food/IMG_5801.jpg,Black bone chicken soup
+75,../input/fooddataset/Food/Sydney_20100529_001.jpg,Twist
+76,../input/fooddataset/Food/IMG_9794.jpg,Pork ribs soup with radish
+77,../input/fooddataset/Food/IMG_2985.jpg,Preserved egg salad
+78,../input/fooddataset/Food/IMG_2737.jpg,Boiled chicken
+79,../input/fooddataset/Food/IMG_3393.jpg,Pumpkin porridge
+80,../input/fooddataset/Food/IMG_9633.jpg,Sweet and Sour Mandarin Fish
+81,../input/fooddataset/Food/IMG_6763.jpg,Steamed Perch
+82,../input/fooddataset/Food/IMG_0909.jpg,ice cream
+83,../input/fooddataset/Food/IMG_1248.jpg,Steamed Perch
+84,../input/fooddataset/Food/IMG_8505.jpg,Brown sugar ice powder
+85,../input/fooddataset/Food/IMG_7339.jpg,Chiffon Cake
+86,../input/fooddataset/Food/IMG_5012.jpg,Chiffon Cake
+87,../input/fooddataset/Food/IMG_3445.jpg,Egg pudding
+88,../input/fooddataset/Food/IMG_1438.jpg,Tangyuan
+89,../input/fooddataset/Food/IMG_5420.jpg,Sesame seed cake
+90,../input/fooddataset/Food/IMG_6919.jpg,Roast goose
+91,../input/fooddataset/Food/Sydney_20100529_002.jpg,grilled fish
+92,../input/fooddataset/Food/IMG_6137.jpg,Pork wonton
+93,../input/fooddataset/Food/Cairns_20100525_014.jpg,Steamed Bun Stuffed
+94,../input/fooddataset/Food/IMG_7188.jpg,Shrimp Duplings
+95,../input/fooddataset/Food/IMG_0314.jpg,Mashed potatoes
+96,../input/fooddataset/Food/20170825_172600.jpg,Brown sugar ice powder
+97,../input/fooddataset/Food/IMG_1454.jpg,Steamed Pork Dumplings
+98,../input/fooddataset/Food/IMG_9707.jpg,Yuxiang Eggplant
+99,../input/fooddataset/Food/IMG_1229.jpg,Dumplings
+100,../input/fooddataset/Food/IMG_2511.jpg,Tangyuan
+101,../input/fooddataset/Food/IMG_6803.jpg,Braised spareribs with kelp
+102,../input/fooddataset/Food/IMG_6549.jpg,Pipi shrimp
+103,../input/fooddataset/Food/IMG_1869.jpg,Oysters
+104,../input/fooddataset/Food/IMG_5369.jpg,Roast goose
+105,../input/fooddataset/Food/Hawaii_2008_320.jpg,Yu-Shiang Shredded Pork
+106,../input/fooddataset/Food/IMG_0948.jpg,Pan-fried Crucian Carp
+107,../input/fooddataset/Food/IMG_1122.jpg,Mashed garlic eggplant
+108,../input/fooddataset/Food/IMG_7731.jpg,Boiled chicken
+109,../input/fooddataset/Food/8c50b401-1713-40be-8958-0f63e54d943d.jpg,Sugar oil cake
+110,../input/fooddataset/Food/IMG_1246.jpg,Leek box
+111,../input/fooddataset/Food/IMG_6641.jpg,Steamed Pork Dumplings
+112,../input/fooddataset/Food/IMG_1439.jpg,ice cream
+113,../input/fooddataset/Food/IMG_7654.jpg,Sauteed Lettuce in Oyster Sauce
+114,../input/fooddataset/Food/IMG_6145.jpg,ice cream
+115,../input/fooddataset/Food/IMG_1447(1).jpg,Tomato salad
+116,../input/fooddataset/Food/IMG_8502.jpg,Kimbap
+117,../input/fooddataset/Food/IMG_4972.jpg,Egg pie cake
+118,../input/fooddataset/Food/IMG_1447.jpg,Shrimp Duplings
+119,../input/fooddataset/Food/IMG_2277.jpg,"Sauteed Sliced Pork,Eggs and Black Fungus"
+120,../input/fooddataset/Food/China_2008_316.jpg,Pork Lungs in Chili Sauce
+121,../input/fooddataset/Food/IMG_1442.jpg,Chicken Feet with Pickled Peppers
+122,../input/fooddataset/Food/IMG_8506.jpg,Pork wonton
+123,../input/fooddataset/Food/IMG_9709.jpg,Braised beef noodle
+124,../input/fooddataset/Food/IMG_6550.jpg,Dumplings
+125,../input/fooddataset/Food/IMG_2257.jpg,Bean curd
+126,../input/fooddataset/Food/IMG_9186.jpg,Rice congee
+127,../input/fooddataset/Food/IMG_1453.jpg,Oysters
+128,../input/fooddataset/Food/20171203_164837.jpg,Croissant
+129,../input/fooddataset/Food/Hawaii_2008_322.jpg,Twist
+130,../input/fooddataset/Food/IMG_3063.jpg,Brown sugar ice powder
+131,../input/fooddataset/Food/EFFECTS(9).jpg,Sliced Boiled Pork with Garlic Sauce
+132,../input/fooddataset/Food/20170926_122548.jpg,Egg pudding
+133,../input/fooddataset/Food/20170824_064956.jpg,Double skin milk
+134,../input/fooddataset/Food/IMG_2308.jpg,Steamed Perch
+135,../input/fooddataset/Food/IMG_6333.jpg,Brown sugar ice powder
+136,../input/fooddataset/Food/IMG_2744.jpg,Steamed egg custard
+137,../input/fooddataset/Food/IMG_4117.jpg,Pine cake with Diced Scallion
+138,../input/fooddataset/Food/IMG_9683.jpg,Steamed Perch
+139,../input/fooddataset/Food/20171205_201038.jpg,Cold noodles
+140,../input/fooddataset/Food/IMG_7293.jpg,Pan-fried Crucian Carp
+141,../input/fooddataset/Food/IMG_2158.jpg,Double skin milk
+142,../input/fooddataset/Food/20171129_062428.jpg,Boiled chicken
+143,../input/fooddataset/Food/IMG_5660.jpg,Pork wonton
+144,../input/fooddataset/Food/Hawaii_2008_325.jpg,Braised Shrimp in chili oil
+145,../input/fooddataset/Food/IMG_7648.jpg,Shrimp Duplings
+146,../input/fooddataset/Food/IMG_7067.jpg,Sweet and sour fish
+147,../input/fooddataset/Food/IMG_9592.jpg,Yuba salad
+148,../input/fooddataset/Food/IMG_1263.jpg,Steamed Chicken with Chili Sauce
+149,../input/fooddataset/Food/IMG_4902.jpg,Beef Seasoned with Soy Sauce
+150,../input/fooddataset/Food/IMG_4433.jpg,Egg pudding
+151,../input/fooddataset/Food/IMG_5232.jpg,Turtle
+152,../input/fooddataset/Food/IMG_8872.jpg,ice cream
+153,../input/fooddataset/Food/IMG_7638.jpg,Seaweed and Egg Soup
+154,../input/fooddataset/Food/Cairns_20100525_007.jpg,Poached Egg
+155,../input/fooddataset/Food/IMG_3711.jpg,Pork with salted vegetable
+156,../input/fooddataset/Food/IMG_7159.jpg,Egg pudding
+157,../input/fooddataset/Food/IMG_8819.jpg,Spinach and pork liver soup
+158,../input/fooddataset/Food/20171224_191220.jpg,Golden meat rolls
+159,../input/fooddataset/Food/IMG_8709.jpg,Preserved egg salad
+160,../input/fooddataset/Food/IMG_5135.jpg,Seaweed tofu soup
+161,../input/fooddataset/Food/IMG_6917.jpg,Steamed Perch
+162,../input/fooddataset/Food/IMG_1446(1).jpg,Beijing Roast Duck
+163,../input/fooddataset/Food/IMG_7647.jpg,Cold Rice Noodles
+164,../input/fooddataset/Food/IMG_3710.jpg,Seaweed tofu soup
+165,../input/fooddataset/Food/Hawaii_2008_321.jpg,Seaweed salad
+166,../input/fooddataset/Food/IMG_2728.jpg,Boiled chicken
+167,../input/fooddataset/Food/IMG_2187.jpg,Peanuts
+168,../input/fooddataset/Food/20171226_190605.jpg,Abalone
+169,../input/fooddataset/Food/IMG_5680.jpg,Poached Egg
+170,../input/fooddataset/Food/China_2008_315.jpg,Fried Sweet and Sour Tenderloin
+171,../input/fooddataset/Food/IMG_5051.jpg,ice cream
+172,../input/fooddataset/Food/IMG_5393.jpg,Pig ears
+173,../input/fooddataset/Food/China_2008_26.jpg,Mashed garlic eggplant
+174,../input/fooddataset/Food/IMG_4432.jpg,Seaweed tofu soup
+175,../input/fooddataset/Food/EFFECTS.jpg,Shredded chicken
+176,../input/fooddataset/Food/IMG_2280.jpg,Sesame seed cake
+177,../input/fooddataset/Food/IMG_6457.jpg,ice cream
+178,../input/fooddataset/Food/20171226_203458.jpg,ice cream
+179,../input/fooddataset/Food/IMG_8507.jpg,Steamed Perch
+180,../input/fooddataset/Food/Sydney_20100527_130.jpg,grilled fish
+181,../input/fooddataset/Food/IMG_1867.jpg,Pig ears
+182,../input/fooddataset/Food/Sydney_20100529_012.jpg,Crackers
+183,../input/fooddataset/Food/IMG_1387.jpg,Oysters
+184,../input/fooddataset/Food/IMG_8894.jpg,Scallop in Shell
+185,../input/fooddataset/Food/IMG_6443.jpg,Potato omelet
+186,../input/fooddataset/Food/IMG_0350.jpg,Steamed Pork Dumplings
+187,../input/fooddataset/Food/IMG_2319.jpg,Golden meat rolls
+188,../input/fooddataset/Food/IMG_8169.jpg,Preserved egg salad
+189,../input/fooddataset/Food/IMG_3364.jpg,Pork ribs soup with radish
+190,../input/fooddataset/Food/IMG_6065.jpg,toast
+191,../input/fooddataset/Food/Paris_20090628_048.jpg,Abalone
+192,../input/fooddataset/Food/IMG_8534.jpg,Leek box
+193,../input/fooddataset/Food/China_2008_305.jpg,Chicken Feet with Pickled Peppers
+194,../input/fooddataset/Food/IMG_9377.jpg,Egg Tart
+195,../input/fooddataset/Food/IMG_2269.jpg,Brown sugar ice powder
+196,../input/fooddataset/Food/20171129_062423.jpg,ice cream
+197,../input/fooddataset/Food/IMG_9685.jpg,Black bone chicken soup
+198,../input/fooddataset/Food/IMG_7686.jpg,Golden meat rolls
+199,../input/fooddataset/Food/IMG_7295.jpg,Pan-fried Crucian Carp
+200,../input/fooddataset/Food/20170307_115227.jpg,Brown sugar ice powder
+201,../input/fooddataset/Food/IMG_6891.jpg,Twist
+202,../input/fooddataset/Food/IMG_7260.jpg,Steamed Perch
+203,../input/fooddataset/Food/EFFECTS(4).jpg,Chongqing Hot and Sour Rice Noodles
+204,../input/fooddataset/Food/IMG_20200220_142255.jpg,Egg pudding
+205,../input/fooddataset/Food/IMG_7232.jpg,Lamb shashlik
+206,../input/fooddataset/Food/IMG_1444.jpg,Double skin milk
+207,../input/fooddataset/Food/IMG_9711.jpg,Double skin milk
+208,../input/fooddataset/Food/20170824_064923.jpg,Shrimp Duplings
+209,../input/fooddataset/Food/Hawaii_2008_312.jpg,Fried Yam
+210,../input/fooddataset/Food/20171226_190519.jpg,Mala xiang guo
+211,../input/fooddataset/Food/IMG_9825.jpg,ice cream
+212,../input/fooddataset/Food/IMG_2982.jpg,Mashed garlic eggplant
+213,../input/fooddataset/Food/IMG_8415.jpg,Pipi shrimp
+214,../input/fooddataset/Food/China_2008_30.jpg,sauteed noodles with minced meat
+215,../input/fooddataset/Food/Denver_201006_387.jpg,Chicken Feet with Pickled Peppers
+216,../input/fooddataset/Food/IMG_4116.jpg,Preserved egg salad
+217,../input/fooddataset/Food/IMG_2528.jpg,Abalone
+218,../input/fooddataset/Food/Paris_20090629_240.jpg,Steamed pork with rice powder
+219,../input/fooddataset/Food/IMG_1449.jpg,Tiger lily buds in Baconic
+220,../input/fooddataset/Food/20170827_134821.jpg,ice cream
+221,../input/fooddataset/Food/IMG_2585.jpg,Tangyuan
+222,../input/fooddataset/Food/IMG_4871.jpg,Cola Chicken wings
+223,../input/fooddataset/Food/IMG_1272.jpg,Sauteed Shredded Pork in Sweet Bean Sauce
+224,../input/fooddataset/Food/China_2008_225.jpg,edamame beans
+225,../input/fooddataset/Food/EFFECTS(3).jpg,Hot and sour shredded potatoes
+226,../input/fooddataset/Food/China_2008_307.jpg,Egg pudding
+227,../input/fooddataset/Food/IMG_20171214_192012.jpg,Fried milk
+228,../input/fooddataset/Food/IMG_8545.jpg,Braised beef
+229,../input/fooddataset/Food/IMG_6204.jpg,Steamed egg custard
+230,../input/fooddataset/Food/20170824_065439.jpg,Braised beef noodle
+231,../input/fooddataset/Food/China_2008_308.jpg,Kimbap
+232,../input/fooddataset/Food/IMG_1683.jpg,Twist
+233,../input/fooddataset/Food/IMG_1191.jpg,Steamed Pork Dumplings
+234,../input/fooddataset/Food/IMG_2769.jpg,Pork with salted vegetable
+235,../input/fooddataset/Food/IMG_2296.jpg,Boiled Fish with Picked Cabbage and Chili
+236,../input/fooddataset/Food/IMG_2295.jpg,Pig ears
+237,../input/fooddataset/Food/IMG_1446.jpg,Tangyuan
+238,../input/fooddataset/Food/IMG_1318.jpg,Mashed garlic eggplant
+239,../input/fooddataset/Food/IMG_6063.jpg,Golden meat rolls
+240,../input/fooddataset/Food/IMG_8688.jpg,Spinach and pork liver soup
+241,../input/fooddataset/Food/IMG_5013.jpg,Double skin milk
+242,../input/fooddataset/Food/Sydney_20100529_007.jpg,Crab
+243,../input/fooddataset/Food/IMG_6871.jpg,Lamb shashlik
+244,../input/fooddataset/Food/IMG_2785.jpg,Roast goose
+245,../input/fooddataset/Food/IMG_5698.jpg,Marinated Egg
+246,../input/fooddataset/Food/IMG_7832.jpg,Spinach and pork liver soup
+247,../input/fooddataset/Food/IMG_5802.jpg,Scallop in Shell
+248,../input/fooddataset/Food/IMG_2192.jpg,Crackers
+249,../input/fooddataset/Food/20171217_204024.jpg,Steamed Perch
+250,../input/fooddataset/Food/IMG_1413.jpg,Egg pudding
+251,../input/fooddataset/Food/IMG_6347.jpg,Brown sugar ice powder
+252,../input/fooddataset/Food/IMG_2972.jpg,Mantou with purple yam and pumpkin
+253,../input/fooddataset/Food/Cairns_20100525_009.jpg,Egg pudding
+254,../input/fooddataset/Food/IMG_9289.jpg,Omelette
+255,../input/fooddataset/Food/IMG_4976.jpg,Chongqing Hot and Sour Rice Noodles
+256,../input/fooddataset/Food/IMG_20170721_145338.jpg,Miso soup
+257,../input/fooddataset/Food/Sydney_20100528_055.jpg,Tangyuan
+258,../input/fooddataset/Food/IMG_1002.jpg,Stone pot of rice
+259,../input/fooddataset/Food/IMG_8919.jpg,Poached Egg
+260,../input/fooddataset/Food/IMG_9805.jpg,Fried Yam
+261,../input/fooddataset/Food/IMG_9686.jpg,Steamed egg custard
+262,../input/fooddataset/Food/IMG_8508.jpg,Leek box
+263,../input/fooddataset/Food/IMG_1451.jpg,Steamed Perch
+264,../input/fooddataset/Food/IMG_5036.jpg,Soda biscuit
+265,../input/fooddataset/Food/20171226_203451.jpg,Cucumber in Sauce
+266,../input/fooddataset/Food/IMG_0352.jpg,Pork wonton
+267,../input/fooddataset/Food/IMG_9569.jpg,Chicken Feet with black bean sauce
+268,../input/fooddataset/Food/IMG_5973.jpg,Steamed Perch
+269,../input/fooddataset/Food/China_2008_46.jpg,Beijing Roast Duck
+270,../input/fooddataset/Food/IMG_5488.jpg,Boiled Fish with Picked Cabbage and Chili
+271,../input/fooddataset/Food/IMG_5004.jpg,Boiled chicken
+272,../input/fooddataset/Food/IMG_2736.jpg,Oyster mushroom
+273,../input/fooddataset/Food/IMG_8871.jpg,Braised spareribs with kelp
+274,../input/fooddataset/Food/IMG_1441(1).jpg,Crab
+275,../input/fooddataset/Food/IMG_6761.jpg,Pizza
+276,../input/fooddataset/Food/IMG_2128.jpg,Roujiamo
+277,../input/fooddataset/Food/IMG_3277.jpg,Tiger lily buds in Baconic
+278,../input/fooddataset/Food/China_2008_47.jpg,Mashed garlic eggplant
+279,../input/fooddataset/Food/IMG_7171.jpg,Beijing Roast Duck
+280,../input/fooddataset/Food/China_2008_23.jpg,Tangyuan
+281,../input/fooddataset/Food/IMG_9710.jpg,Cucumber in Sauce
+282,../input/fooddataset/Food/IMG_1266.jpg,Lettuce with smashed garlic
+283,../input/fooddataset/Food/IMG_7951.jpg,Pan-fried Crucian Carp
+284,../input/fooddataset/Food/IMG_2191.jpg,Eggplant with mince pork
+285,../input/fooddataset/Food/IMG_6859.jpg,Seaweed salad
+286,../input/fooddataset/Food/Hawaii_2008_313.jpg,Fried Sweet and Sour Tenderloin
+287,../input/fooddataset/Food/IMG_2610.jpg,Shrimp Duplings
+288,../input/fooddataset/Food/IMG_1441.jpg,Preserved egg salad
+289,../input/fooddataset/Food/IMG_9593.jpg,Roast goose
+290,../input/fooddataset/Food/IMG_5677.jpg,Oysters
+291,../input/fooddataset/Food/20170531_181713.jpg,Bread
+292,../input/fooddataset/Food/IMG_7049.jpg,Lotus root
+293,../input/fooddataset/Food/IMG_7887.jpg,Beijing Roast Duck
+294,../input/fooddataset/Food/IMG_8820.jpg,French fries
+295,../input/fooddataset/Food/IMG_4903.jpg,Double skin milk
+296,../input/fooddataset/Food/IMG_7970.jpg,Abalone
+297,../input/fooddataset/Food/IMG_7798.jpg,Egg Tart
+298,../input/fooddataset/Food/IMG_6456.jpg,Scallop in Shell
+299,../input/fooddataset/Food/IMG_2224.jpg,Tomato salad
+300,../input/fooddataset/Food/IMG_6048.jpg,Goat Soup
+301,../input/fooddataset/Food/20171129_194748.jpg,Pizza
+302,../input/fooddataset/Food/IMG_20200220_142249.jpg,toast
+303,../input/fooddataset/Food/Paris_20090629_239.jpg,spaghetti with meat sauce
+304,../input/fooddataset/Food/IMG_5138.jpg,Tripe
+305,../input/fooddataset/Food/IMG_6258.jpg,Turtle
+306,../input/fooddataset/Food/IMG_5974.jpg,Egg steamed meat pie
+307,../input/fooddataset/Food/Sydney_20100529_016.jpg,Braised Shrimp in chili oil
+308,../input/fooddataset/Food/IMG_9306.jpg,Spinach and pork liver soup
+309,../input/fooddataset/Food/IMG_1672.jpg,Boiled chicken
+310,../input/fooddataset/Food/Hawaii_2008_324.jpg,Spicy cabbage
+311,../input/fooddataset/Food/IMG_2307.jpg,Lettuce shredded meat
+312,../input/fooddataset/Food/D466B344-4044-436C-A2EA-6C24F6C01E87.jpg,Pipi shrimp
+313,../input/fooddataset/Food/Munich_20090619_08.jpg,Mashed garlic eggplant
+314,../input/fooddataset/Food/IMG_2604.jpg,Pork ribs soup with radish
+315,../input/fooddataset/Food/IMG_5400(1).jpg,Spiced mushroom
+316,../input/fooddataset/Food/IMG_1416.jpg,Preserved egg salad
+317,../input/fooddataset/Food/IMG_4973.jpg,Stone pot of rice
+318,../input/fooddataset/Food/IMG_7259.jpg,ice cream
+319,../input/fooddataset/Food/Paris_20090630_01.jpg,Steamed pork with rice powder
+320,../input/fooddataset/Food/20171125_115919.jpg,Sauteed spinach
+321,../input/fooddataset/Food/IMG_6255.jpg,Egg pudding
+322,../input/fooddataset/Food/IMG_1432.jpg,Minced Pork Congee with Preserved Egg
+323,../input/fooddataset/Food/IMG_1415.jpg,Preserved egg salad
+324,../input/fooddataset/Food/IMG_9509.jpg,Lettuce with smashed garlic
+325,../input/fooddataset/Food/IMG_4977.jpg,Sauteed Lily Bulbs and Celery
+326,../input/fooddataset/Food/20170521_090849.jpg,Sesame seed cake
+327,../input/fooddataset/Food/China_2008_42.jpg,Mashed garlic eggplant
+328,../input/fooddataset/Food/IMG_6394.jpg,Fried Dumplings
+329,../input/fooddataset/Food/IMG_7831.jpg,Bean curd
+330,../input/fooddataset/Food/IMG_1681.jpg,Crab
+331,../input/fooddataset/Food/IMG_6872.jpg,West Lake beef soup
+332,../input/fooddataset/Food/IMG_6939.jpg,Tangyuan
+333,../input/fooddataset/Food/IMG_0351.jpg,Steamed Pork Dumplings
+334,../input/fooddataset/Food/IMG_1284.jpg,Egg pudding
+335,../input/fooddataset/Food/IMG_8168.jpg,Kimbap
+336,../input/fooddataset/Food/IMG_2182.jpg,Coconut Chicken
+337,../input/fooddataset/Food/IMG_7294.jpg,Preserved egg salad
+338,../input/fooddataset/Food/IMG_6445.jpg,Steamed pork with rice powder
+339,../input/fooddataset/Food/IMG_2324.jpg,Minced Pork Congee with Preserved Egg
+340,../input/fooddataset/Food/IMG_2320.jpg,Saute vegetable
+341,../input/fooddataset/Food/IMG_2541.jpg,Braised beef noodle
+342,../input/fooddataset/Food/IMG_2119.jpg,Tangyuan
+343,../input/fooddataset/Food/IMG_6084.jpg,Abalone
+344,../input/fooddataset/Food/IMG_3279.jpg,Oysters
+345,../input/fooddataset/Food/IMG_5118.jpg,Braised spareribs with kelp
+346,../input/fooddataset/Food/IMG_8806.jpg,Spinach and pork liver soup
+347,../input/fooddataset/Food/IMG_6017.jpg,Turtle
+348,../input/fooddataset/Food/IMG_3446.jpg,Mashed garlic eggplant
+349,../input/fooddataset/Food/Denver_201006_437(1).jpg,Yu-Shiang Shredded Pork
+350,../input/fooddataset/Food/IMG_6551.jpg,Pork wonton
+351,../input/fooddataset/Food/China_2008_319.jpg,White fungus soup
+352,../input/fooddataset/Food/IMG_3276.jpg,Turtle
+353,../input/fooddataset/Food/IMG_2263.jpg,Beijing Roast Duck
+354,../input/fooddataset/Food/IMG_2303.jpg,Rice congee
+355,../input/fooddataset/Food/IMG_7913.jpg,Steamed Perch
+356,../input/fooddataset/Food/IMG_8514.jpg,Steamed small yellow croaker
+357,../input/fooddataset/Food/IMG_7949.jpg,Steamed small yellow croaker
+358,../input/fooddataset/Food/IMG_9795.jpg,Pork wonton
+359,../input/fooddataset/Food/EFFECTS(6).jpg,Cucumber in Sauce
+360,../input/fooddataset/Food/IMG_6870.jpg,Pork wonton
+361,../input/fooddataset/Food/IMG_1514.jpg,Roujiamo
+362,../input/fooddataset/Food/EFB318A8-3639-4F67-8092-3B8FB03BABC5.jpg,ice cream
+363,../input/fooddataset/Food/Hawaii_2008_311.jpg,ice cream
+364,../input/fooddataset/Food/IMG_2582.jpg,Spinach and pork liver soup
+365,../input/fooddataset/Food/20171129_064129.jpg,Stir-fried water spinach
+366,../input/fooddataset/Food/IMG_1440.jpg,Golden meat rolls
+367,../input/fooddataset/Food/IMG_6897.jpg,Bean curd
+368,../input/fooddataset/Food/IMG_5656.jpg,Chicken Feet with black bean sauce
+369,../input/fooddataset/Food/IMG_4108.jpg,Pork wonton
+370,../input/fooddataset/Food/IMG_3567.jpg,Black fungus salad
+371,../input/fooddataset/Food/IMG_5370.jpg,Marinated Egg
+372,../input/fooddataset/Food/IMG_3615.jpg,Boiled chicken
+373,../input/fooddataset/Food/China_2008_312.jpg,Braised beef
+374,../input/fooddataset/Food/Munich_20090614_06.jpg,Sauteed Shredded Pork in Sweet Bean Sauce
+375,../input/fooddataset/Food/IMG_2164.jpg,eel
+376,../input/fooddataset/Food/20170607_123821.jpg,Oysters
+377,../input/fooddataset/Food/China_2008_317.jpg,Lamb shashlik
+378,../input/fooddataset/Food/20171028_071427.jpg,Cold Rice Noodles
+379,../input/fooddataset/Food/IMG_2455.jpg,Soybean with pork
+380,../input/fooddataset/Food/China_2008_48.jpg,Pan-fried Crucian Carp
+381,../input/fooddataset/Food/20171224_191213.jpg,Golden meat rolls
+382,../input/fooddataset/Food/IMG_3605.jpg,Steamed Perch
+383,../input/fooddataset/Food/20170820_192421.jpg,pepper with tiger skin
+384,../input/fooddataset/Food/IMG_5433.jpg,Fried Dumplings
+385,../input/fooddataset/Food/IMG_2253.jpg,Cold Rice Noodles
+386,../input/fooddataset/Food/Sydney_20100529_075.jpg,Pig ears
+387,../input/fooddataset/Food/20171226_190607.jpg,Abalone
+388,../input/fooddataset/Food/IMG_5136.jpg,Saute vegetable
+389,../input/fooddataset/Food/IMG_6455.jpg,Pine cake with Diced Scallion
+390,../input/fooddataset/Food/20171204_184221.jpg,Oysters
+391,../input/fooddataset/Food/IMG_7872.jpg,Lamb shashlik
+392,../input/fooddataset/Food/IMG_6545.jpg,Tangyuan
+393,../input/fooddataset/Food/China_2008_313.jpg,Steamed Chicken with Chili Sauce
+394,../input/fooddataset/Food/Cairns_20100525_157.jpg,Kimbap
+395,../input/fooddataset/Food/Munich_20090615_29.jpg,Boiled chicken
+396,../input/fooddataset/Food/IMG_1255.jpg,ice cream
+397,../input/fooddataset/Food/IMG_9634.jpg,Roast goose
+398,../input/fooddataset/Food/IMG_5003.jpg,Black fungus salad
+399,../input/fooddataset/Food/IMG_5969.jpg,Boiled chicken
+400,../input/fooddataset/Food/IMG_5987.jpg,Tomato salad
+401,../input/fooddataset/Food/IMG_2583.jpg,spaghetti with meat sauce
+402,../input/fooddataset/Food/IMG_7640.jpg,Soda biscuit
+403,../input/fooddataset/Food/Denver_201006_390.jpg,Pork with salted vegetable
+404,../input/fooddataset/Food/IMG_0147.jpg,Crab
+405,../input/fooddataset/Food/20170528_073118.jpg,Brown sugar ice powder
+406,../input/fooddataset/Food/Hawaii_2008_323.jpg,Braised Shrimp in chili oil
+407,../input/fooddataset/Food/China_2008_2.jpg,Steamed Perch
+408,../input/fooddataset/Food/IMG_2301.jpg,Seaweed tofu soup
+409,../input/fooddataset/Food/Sydney_20100529_015.jpg,Oyster mushroom
+410,../input/fooddataset/Food/IMG_2284.jpg,Twist
+411,../input/fooddataset/Food/IMG_6396.jpg,Egg pudding
+412,../input/fooddataset/Food/20170521_091306.jpg,Pumpkin porridge
+413,../input/fooddataset/Food/IMG_9241.jpg,Dumplings
+414,../input/fooddataset/Food/IMG_1417.jpg,Spinach and pork liver soup
+415,../input/fooddataset/Food/IMG_6189.jpg,Egg pudding
+416,../input/fooddataset/Food/IMG_2586.jpg,Golden meat rolls
+417,../input/fooddataset/Food/IMG_5486.jpg,Kimbap
+418,../input/fooddataset/Food/China_2008_11.jpg,Braised beef noodle
+419,../input/fooddataset/Food/IMG_3444.jpg,Spinach and pork liver soup
+420,../input/fooddataset/Food/IMG_1004.jpg,Pork wonton
+421,../input/fooddataset/Food/IMG_2605.jpg,Poached Egg
+422,../input/fooddataset/Food/IMG_2584.jpg,Preserved egg salad
+423,../input/fooddataset/Food/IMG_5401.jpg,Beijing Roast Duck
+424,../input/fooddataset/Food/IMG_4114.jpg,Egg pudding
+425,../input/fooddataset/Food/China_2008_314.jpg,stuffed bitter melon
+426,../input/fooddataset/Food/IMG_2529.jpg,Boiled Fish with Picked Cabbage and Chili
+427,../input/fooddataset/Food/IMG_5121.jpg,Black bone chicken soup
+428,../input/fooddataset/Food/IMG_3613.jpg,ice cream
+429,../input/fooddataset/Food/IMG_20170609_150345.jpg,Crackers
+430,../input/fooddataset/Food/IMG_5678.jpg,Roujiamo
+431,../input/fooddataset/Food/IMG_6723.jpg,Goat Soup
+432,../input/fooddataset/Food/IMG_4113.jpg,Egg pudding
+433,../input/fooddataset/Food/IMG_3547.jpg,Braised pig feet with soy sauce
+434,../input/fooddataset/Food/20171206_085808.jpg,Twist
+435,../input/fooddataset/Food/IMG_5983.jpg,Steamed Perch
+436,../input/fooddataset/Food/20170610_150450.jpg,Steamed Perch
+437,../input/fooddataset/Food/IMG_7888.jpg,ice cream
+438,../input/fooddataset/Food/IMG_2298.jpg,Chicken gizzard
+439,../input/fooddataset/Food/Sydney_20100528_270.jpg,Pork Lungs in Chili Sauce
+440,../input/fooddataset/Food/IMG_9761.jpg,Sour cabbage
+441,../input/fooddataset/Food/IMG_6543.jpg,cookies
+442,../input/fooddataset/Food/20170604_172423.jpg,Mapo Tofu
+443,../input/fooddataset/Food/IMG_1537.jpg,Pork ribs soup with radish
+444,../input/fooddataset/Food/20171226_190515.jpg,Duck Blood in Chili Sauce
+445,../input/fooddataset/Food/IMG_3589.jpg,Turtle
+446,../input/fooddataset/Food/IMG_8849.jpg,Roast goose
+447,../input/fooddataset/Food/IMG_6827.jpg,Brown sugar ice powder
+448,../input/fooddataset/Food/IMG_6642.jpg,Steamed Perch
+449,../input/fooddataset/Food/IMG_8823.jpg,Steamed Perch
+450,../input/fooddataset/Food/IMG_3570.jpg,toast
+451,../input/fooddataset/Food/IMG_1230.jpg,Lamb shashlik
+452,../input/fooddataset/Food/IMG_0379.jpg,Sauteed Lily Bulbs and Celery
+453,../input/fooddataset/Food/IMG_6715.jpg,Abalone
+454,../input/fooddataset/Food/IMG_6335.jpg,Pork with salted vegetable
+455,../input/fooddataset/Food/IMG_6205.jpg,ice cream
+456,../input/fooddataset/Food/IMG_7444.jpg,Sauteed Shredded Pork in Sweet Bean Sauce
+457,../input/fooddataset/Food/IMG_7914.jpg,Steamed Perch
+458,../input/fooddataset/Food/37898462-E7A4-4154-94E0-9EAE36B4BCBC.jpg,Mashed garlic eggplant
+459,../input/fooddataset/Food/IMG_6773.jpg,Beijing Roast Duck
+460,../input/fooddataset/Food/IMG_5055.jpg,Beef Seasoned with Soy Sauce
+461,../input/fooddataset/Food/IMG_6869.jpg,Corn Cob
+462,../input/fooddataset/Food/IMG_7158.jpg,Egg pie cake
+463,../input/fooddataset/Food/IMG_1444(1).jpg,Russian red cabbage soup
+464,../input/fooddataset/Food/IMG_7470.jpg,Crucian and Bean Curd Soup
+465,../input/fooddataset/Food/IMG_3548.jpg,Broccoli with Oyster Sauce
+466,../input/fooddataset/Food/IMG_6256.jpg,Double skin milk
+467,../input/fooddataset/Food/20171030_071136.jpg,Steamed Chicken with Chili Sauce
+468,../input/fooddataset/Food/IMG_9824.jpg,Turtle
+469,../input/fooddataset/Food/IMG_9382.jpg,spaghetti with meat sauce
+470,../input/fooddataset/Food/IMG_9827.jpg,Sweet and sour fish
+471,../input/fooddataset/Food/IMG_2157.jpg,Seaweed and Egg Soup
+472,../input/fooddataset/Food/Cairns_20100525_002.jpg,Omelette
+473,../input/fooddataset/Food/IMG_2118.jpg,Fried Dumplings
+474,../input/fooddataset/Food/20171130_074408.jpg,Sliced Boiled Pork with Garlic Sauce
+475,../input/fooddataset/Food/IMG_1231.jpg,Roast goose
+476,../input/fooddataset/Food/IMG_6447.jpg,Steamed pork with rice powder
+477,../input/fooddataset/Food/20171213_184902.jpg,eel
+478,../input/fooddataset/Food/China_2008_12.jpg,Goat Soup
+479,../input/fooddataset/Food/IMG_6450.jpg,Scallop in Shell
+480,../input/fooddataset/Food/Denver_201006_436.jpg,Shrimp broccoli
+481,../input/fooddataset/Food/IMG_3587.jpg,Egg pudding
+482,../input/fooddataset/Food/20170820_145246.jpg,Fried milk
+483,../input/fooddataset/Food/IMG_7447.jpg,Double skin milk
+484,../input/fooddataset/Food/IMG_1433.jpg,Steamed pork with rice powder
+485,../input/fooddataset/Food/IMG_6135.jpg,Steamed Perch
+486,../input/fooddataset/Food/IMG_7288.jpg,Lamb shashlik
+487,../input/fooddataset/Food/20170528_205613.jpg,Egg pudding
+488,../input/fooddataset/Food/IMG_5035.jpg,Egg pudding
+489,../input/fooddataset/Food/IMG_6452.jpg,Spiced mushroom
+490,../input/fooddataset/Food/IMG_6918.jpg,Egg steamed meat pie
+491,../input/fooddataset/Food/IMG_6858.jpg,Tangyuan
+492,../input/fooddataset/Food/20170521_132610.jpg,Boiled chicken
+493,../input/fooddataset/Food/IMG_1053.jpg,Scallop in Shell
+494,../input/fooddataset/Food/IMG_6442.jpg,Scallop in Shell
+495,../input/fooddataset/Food/IMG_1142.jpg,Preserved egg salad
+496,../input/fooddataset/Food/IMG_1967.jpg,Pipi shrimp
+497,../input/fooddataset/Food/MITACS_Soochow_Colleen (16).jpg,Steamed Perch
+498,../input/fooddataset/Food/IMG_2580.jpg,Mashed garlic eggplant
+499,../input/fooddataset/Food/IMG_6724.jpg,Beijing Roast Duck
+500,../input/fooddataset/Food/IMG_5679.jpg,Braised spareribs with kelp
+501,../input/fooddataset/Food/IMG_8850.jpg,Spinach and pork liver soup
+502,../input/fooddataset/Food/IMG_2321.jpg,White gourd soup
+503,../input/fooddataset/Food/IMG_6203.jpg,Goat Soup
+504,../input/fooddataset/Food/IMG_3275.jpg,Black bone chicken soup
+505,../input/fooddataset/Food/EFFECTS(1).jpg,Dry-aged Cauliflower
+506,../input/fooddataset/Food/IMG_0090.jpg,Shredded cabbage
+507,../input/fooddataset/Food/IMG_7821.jpg,Pork wonton
+508,../input/fooddataset/Food/IMG_2747.jpg,Crab
+509,../input/fooddataset/Food/IMG_7915.jpg,ice cream
+510,../input/fooddataset/Food/IMG_1452.jpg,Steamed Pork Dumplings
+511,../input/fooddataset/Food/IMG_3362.jpg,Tomato salad
+512,../input/fooddataset/Food/IMG_6888.jpg,Twist
+513,../input/fooddataset/Food/Sydney_20100527_133.jpg,Fried milk
+514,../input/fooddataset/Food/Denver_201006_435.jpg,Sauteed spinach
+515,../input/fooddataset/Food/China_2008_304.jpg,Russian red cabbage soup
+516,../input/fooddataset/Food/IMG_5798.jpg,Golden meat rolls
+517,../input/fooddataset/Food/China_2008_318.jpg,Lamb shashlik
+518,../input/fooddataset/Food/Munich_wildschoenau_20090619_006.jpg,Omelette
+519,../input/fooddataset/Food/IMG_6774.jpg,Egg Tart
+520,../input/fooddataset/Food/IMG_9760.jpg,ice cream
+521,../input/fooddataset/Food/20171226_190730.jpg,Cucumber in Sauce
+522,../input/fooddataset/Food/China_2008_9.jpg,Yuba salad
+523,../input/fooddataset/Food/IMG_6257.jpg,Egg pudding
+524,../input/fooddataset/Food/IMG_6395.jpg,Bread
+525,../input/fooddataset/Food/20170926_124212.jpg,Egg steamed meat pie
+526,../input/fooddataset/Food/IMG_1448(1).jpg,Tomato salad
+527,../input/fooddataset/Food/IMG_2223.jpg,Boiled chicken
+528,../input/fooddataset/Food/IMG_6893.jpg,Cold noodles
+529,../input/fooddataset/Food/IMG_6772.jpg,Coconut Chicken
+530,../input/fooddataset/Food/IMG_2608.jpg,ice cream
+531,../input/fooddataset/Food/Munich_20090614_07.jpg,Abalone
+532,../input/fooddataset/Food/IMG_2262.jpg,Chiffon Cake
+533,../input/fooddataset/Food/IMG_1671.jpg,Steamed Pork Dumplings
+534,../input/fooddataset/Food/IMG_2310.jpg,Steamed Bun Stuffed
+535,../input/fooddataset/Food/IMG_5125.jpg,Tiger lily buds in Baconic
+536,../input/fooddataset/Food/Munich_wildschoenau_20090619_005.jpg,Omelette
+537,../input/fooddataset/Food/IMG_9435.jpg,ice cream
+538,../input/fooddataset/Food/IMG_9807.jpg,Double skin milk
+539,../input/fooddataset/Food/IMG_6874.jpg,Cold noodles
+540,../input/fooddataset/Food/20170528_073141.jpg,Pork Lungs in Chili Sauce
+541,../input/fooddataset/Food/IMG_9372.jpg,ice cream
+542,../input/fooddataset/Food/20170607_062004.jpg,Bread
+543,../input/fooddataset/Food/MITACS_Soochow_Colleen (17).jpg,Cucumber in Sauce
+544,../input/fooddataset/Food/IMG_3278.jpg,Braised pig feet with soy sauce
+545,../input/fooddataset/Food/IMG_1190.jpg,Pork wonton
+546,../input/fooddataset/Food/IMG_1207.jpg,Lamb shashlik
+547,../input/fooddataset/Food/20171201_073806.jpg,ice cream
+548,../input/fooddataset/Food/IMG_5735.jpg,squid
+549,../input/fooddataset/Food/IMG_6916.jpg,Braised beef noodle
+550,../input/fooddataset/Food/IMG_6444.jpg,Leek box
+551,../input/fooddataset/Food/IMG_7048.jpg,Sesame seed cake
+552,../input/fooddataset/Food/IMG_6639.jpg,Black bone chicken soup
+553,../input/fooddataset/Food/IMG_4439.jpg,Tangyuan
+554,../input/fooddataset/Food/IMG_2203.jpg,Sesame seed cake
+555,../input/fooddataset/Food/IMG_6824.jpg,Boiled Shredded pork in chili oil
+556,../input/fooddataset/Food/20171217_204435.jpg,Fried Yam
+557,../input/fooddataset/Food/IMG_6890.jpg,Twist
+558,../input/fooddataset/Food/IMG_2556.jpg,Cold noodles
+559,../input/fooddataset/Food/EFFECTS(2).jpg,Chongqing Hot and Sour Rice Noodles
+560,../input/fooddataset/Food/IMG_2540.jpg,Coconut Chicken
+561,../input/fooddataset/Food/IMG_6894.jpg,Minced Pork Congee with Preserved Egg
+562,../input/fooddataset/Food/IMG_7793.jpg,Yu-Shiang Shredded Pork
+563,../input/fooddataset/Food/IMG_3588.jpg,Braised pig feet with soy sauce
+564,../input/fooddataset/Food/IMG_8860.jpg,Spinach and pork liver soup
+565,../input/fooddataset/Food/IMG_2513.jpg,Shredded chicken
+566,../input/fooddataset/Food/IMG_2287.jpg,Brown sugar ice powder
+567,../input/fooddataset/Food/IMG_2163.jpg,Scallop in Shell
+568,../input/fooddataset/Food/IMG_2205.jpg,Seaweed and Egg Soup
+569,../input/fooddataset/Food/IMG_5803.jpg,Oysters
+570,../input/fooddataset/Food/IMG_6779.jpg,Stone pot of rice
+571,../input/fooddataset/Food/IMG_7179.jpg,Braised Fungus with pork slice
+572,../input/fooddataset/Food/IMG_5419.jpg,Dumplings
+573,../input/fooddataset/Food/EFFECTS(5).jpg,Bean curd
+574,../input/fooddataset/Food/20171226_203454.jpg,ice cream
+575,../input/fooddataset/Food/IMG_2322.jpg,Seaweed tofu soup
+576,../input/fooddataset/Food/IMG_1685.jpg,ice cream
+577,../input/fooddataset/Food/IMG_6760.jpg,Lotus root
+578,../input/fooddataset/Food/IMG_9428.jpg,Scallop in Shell
+579,../input/fooddataset/Food/IMG_1449(1).jpg,Russian red cabbage soup
+580,../input/fooddataset/Food/20170518_065327.jpg,Boiled chicken
+581,../input/fooddataset/Food/20170611_093634.jpg,Fried Yam
+582,../input/fooddataset/Food/IMG_4174.jpg,Fried Lamb with Cumin
+583,../input/fooddataset/Food/IMG_2190.jpg,Pine cake with Diced Scallion
+584,../input/fooddataset/Food/IMG_6046.jpg,Shredded chicken
+585,../input/fooddataset/Food/IMG_7637.jpg,Dumplings
+586,../input/fooddataset/Food/IMG_7530.jpg,Lamb shashlik
+587,../input/fooddataset/Food/IMG_9356.jpg,Chicken Feet with Pickled Peppers
+588,../input/fooddataset/Food/China_2008_44.jpg,Pan-fried Crucian Carp
+589,../input/fooddataset/Food/IMG_0936.jpg,Roast goose
+590,../input/fooddataset/Food/China_2008_43.jpg,Pan-fried Crucian Carp
+591,../input/fooddataset/Food/IMG_6398.jpg,Miso soup
+592,../input/fooddataset/Food/IMG_5005.jpg,Spinach and pork liver soup
+593,../input/fooddataset/Food/IMG_1285.jpg,Baozi
+594,../input/fooddataset/Food/IMG_7653.jpg,Omelette
+595,../input/fooddataset/Food/Denver_201006_434.jpg,Sauteed Shredded Pork in Sweet Bean Sauce
+596,../input/fooddataset/Food/20171226_190622.jpg,Twist
+597,../input/fooddataset/Food/EFFECTS(8).jpg,ice cream
+598,../input/fooddataset/Food/IMG_8501.jpg,Steamed small yellow croaker
+599,../input/fooddataset/Food/IMG_2155.jpg,Mashed garlic eggplant
+600,../input/fooddataset/Food/IMG_2188.jpg,Cold Rice Noodles
+601,../input/fooddataset/Food/EFFECTS(10).jpg,Braised spareribs with kelp
+602,../input/fooddataset/Food/IMG_9763.jpg,Pork with salted vegetable
+603,../input/fooddataset/Food/IMG_5975.jpg,Pig ears
+604,../input/fooddataset/Food/20171031_215007.jpg,Goat Soup
+605,../input/fooddataset/Food/IMG_1450.jpg,Steamed Pork Dumplings
+606,../input/fooddataset/Food/IMG_7799.jpg,Spinach and pork liver soup
+607,../input/fooddataset/Food/IMG_6889.jpg,Twist
+608,../input/fooddataset/Food/IMG_0089.jpg,Sauteed bean sprouts
+609,../input/fooddataset/Food/IMG_2261.jpg,Seaweed salad
+610,../input/fooddataset/Food/IMG_1141.jpg,Omelette
+611,../input/fooddataset/Food/IMG_8509.jpg,Seaweed salad
+612,../input/fooddataset/Food/IMG_7016.jpg,Scrambled Egg with Leek
+613,../input/fooddataset/Food/IMG_1445.jpg,Scallop in Shell
+614,../input/fooddataset/Food/IMG_9684.jpg,Double skin milk
+615,../input/fooddataset/Food/IMG_6920.jpg,Egg pudding
+616,../input/fooddataset/Food/Sydney_20100529_074.jpg,Steamed shrimp with garlic and vermicelli
+617,../input/fooddataset/Food/IMG_6458.jpg,Lamb shashlik
+618,../input/fooddataset/Food/IMG_2135.jpg,Braised beef noodle
+619,../input/fooddataset/Food/IMG_1414.jpg,Black bone chicken soup
+620,../input/fooddataset/Food/China_2008_24.jpg,Preserved egg salad
+621,../input/fooddataset/Food/IMG_9806.jpg,Black bone chicken soup
+622,../input/fooddataset/Food/20170528_160823.jpg,Brown sugar ice powder
+623,../input/fooddataset/Food/EFFECTS(11).jpg,Sauteed bean sprouts
+624,../input/fooddataset/Food/IMG_7189.jpg,Steamed Perch
+625,../input/fooddataset/Food/IMG_2530.jpg,Crucian and Bean Curd Soup
+626,../input/fooddataset/Food/IMG_7679.jpg,Beijing Roast Duck
+627,../input/fooddataset/Food/IMG_1874.jpg,Oysters
+628,../input/fooddataset/Food/IMG_2300.jpg,Egg pudding
+629,../input/fooddataset/Food/IMG_1428.jpg,Fried Dumplings
+630,../input/fooddataset/Food/IMG_6079.jpg,Pine cake with Diced Scallion
+631,../input/fooddataset/Food/China_2008_311.jpg,Seaweed tofu soup
+632,../input/fooddataset/Food/IMG_2181.jpg,Coconut Chicken
+633,../input/fooddataset/Food/IMG_6547.jpg,Pipi shrimp
+634,../input/fooddataset/Food/IMG_4975.jpg,Yu-Shiang Shredded Pork
+635,../input/fooddataset/Food/China_2008_223.jpg,Soybean with pork
+636,../input/fooddataset/Food/IMG_4434.jpg,Sweet and sour fish
+637,../input/fooddataset/Food/IMG_9498.jpg,Tomato salad
+638,../input/fooddataset/Food/IMG_2264.jpg,Chiffon Cake
+639,../input/fooddataset/Food/Denver_201006_437.jpg,Yu-Shiang Shredded Pork
+640,../input/fooddataset/Food/IMG_9508.jpg,Steamed Perch
+641,../input/fooddataset/Food/IMG_7157.jpg,Scrambled Egg with Leek
+642,../input/fooddataset/Food/China_2008_310.jpg,Braised beef noodle
+643,../input/fooddataset/Food/IMG_6907.jpg,Boiled chicken
+644,../input/fooddataset/Food/IMG_8416.jpg,Steamed Perch
+645,../input/fooddataset/Food/IMG_7834.jpg,Steamed Perch
+646,../input/fooddataset/Food/Sydney_20100528_054.jpg,Double skin milk
+647,../input/fooddataset/Food/IMG_2302.jpg,Tangyuan
+648,../input/fooddataset/Food/IMG_6868.jpg,Hot and sour shredded potatoes
+649,../input/fooddataset/Food/IMG_2201.jpg,Oysters
+650,../input/fooddataset/Food/Munich_20090619_09.jpg,Mashed garlic eggplant
+651,../input/fooddataset/Food/IMG_1290.jpg,Pork wonton
+652,../input/fooddataset/Food/IMG_6380.jpg,Twist
+653,../input/fooddataset/Food/IMG_7950.jpg,Stir-fried water spinach
+654,../input/fooddataset/Food/IMG_0910.jpg,Brown sugar ice powder
+655,../input/fooddataset/Food/IMG_1434.jpg,Lamb shashlik
+656,../input/fooddataset/Food/IMG_6892.jpg,Twist
+657,../input/fooddataset/Food/IMG_5134.jpg,Turtle
+658,../input/fooddataset/Food/IMG_7445.jpg,Turtle
+659,../input/fooddataset/Food/IMG_6397.jpg,Kimbap
+660,../input/fooddataset/Food/China_2008_29.jpg,Cold noodles
+661,../input/fooddataset/Food/20170606_130044.jpg,Steamed Perch
+662,../input/fooddataset/Food/IMG_3720.png,Pork Lungs in Chili Sauce
+663,../input/fooddataset/Food/IMG_7004.png,Pan-fried Crucian Carp
+664,../input/fooddataset/Food/IMG_7003.png,Brown sugar ice powder
+665,../input/fooddataset/Food/IMG_5940.png,Brown sugar ice powder
+666,../input/fooddataset/Food/IMG_7007.png,Pan-fried Crucian Carp
+667,../input/fooddataset/Food/IMG_3721.png,Shrimp tail with garlic
